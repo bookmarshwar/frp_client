@@ -1,0 +1,7 @@
+# config.yaml
+
+servers:
+  - type: tcp 
+    name: common
+    server_addr: 0.0.0.0 #你服务器地址
+    server_port: 25025 #你frps开放端口
